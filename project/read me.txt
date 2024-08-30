@@ -1,0 +1,12 @@
+cient
+npx create-react-app library
+npm i 
+npm start
+
+
+
+server
+
+npm i
+npm i express cors body-parser mongoose
+node app
